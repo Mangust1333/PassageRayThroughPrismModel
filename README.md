@@ -270,7 +270,7 @@ Modelirovanie_Optica/
 └── README.md  (описание проекта)
 ```
 
-* `config.json` содержит JSON-объект с параметрами материалов (см. раздел [Загрузка материалов](#загрузка-материалов-iconfigloader-и-jsonconfigloader)).
+* `config.json` содержит JSON-объект с параметрами материалов.
 * `CMakeLists.txt` настраивает поиск SFML, Boost, nlohmann/json, формирует таргеты `RayTracingApp`.
 
 ---
