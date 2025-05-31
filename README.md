@@ -90,7 +90,7 @@ $$
     n(\lambda) = \sqrt{|n^2(\lambda)|}.
 $$
 
-Код в классе `Material` (см. раздел [Реализация ключевых компонентов](#класс-material-и-метод-расчёта-показателя-преломления)):
+Код в классе `Material`:
 
 ```cpp
 double core::Material::refractiveIndex(double lambda_nm) const {
